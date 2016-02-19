@@ -1,22 +1,22 @@
 
 local function run(msg)
-if msg.text == "یاقی" then
-	return "کی اسم سازندمو صدا زد؟"
+if msg.text == "سلام" then
+	return "سلام✋"
 end
-if msg.text == "Umbrella" then
-	return "کیر نود32 هم نی"
+if msg.text == "خوبی" then
+	return "مرسی تو چطوری"
 end
-if msg.text == "umbrella" then
-	return "کیر نود32 هم نی"
+if msg.text == "چه خبر" then
+	return "سلامتی"
 end
-if msg.text == "نود32" then
-	return "hum?"
+if msg.text == "اصل بده" then
+	return "ومپایر 15"
 end
 if msg.text == "اسپم" then
 	return "کس ننت میذارم بخای اسپم کنی"	
 end
-if msg.text == "زتا" then
-	return "کس ننش بگو مرسی"	
+if msg.text == "بات" then
+	return "بله؟"	
 end
 if msg.text == "ایکس ایگرگ" then
 	return "ایکس ایگرگو همرا ننت گاییدم ابمم ریختم روش"	
@@ -33,20 +33,20 @@ end
 if msg.text == "x" then
 	return "ایکس ایگرگ گاییدم ابمم کس ننته"	
 end
-if msg.text == "start" then
-	return "تو اگه تخم داشتی گروهو خراب کنی بیا پیش خودم ننتومیگام @behroozyaghi"
+if msg.text == "bye" then
+	return "خدافظ
 end
 if msg.text == "y" then
 	return "ایکس ایگرگ گاییدم ابمم کس ننته"	
 end
 if msg.text == "Bot" then
-	return "چی کس میگی؟"
+	return "بله"
 end
 if msg.text == "?" then
 	return "Hum??"
 end
 if msg.text == "بای" then
-	return "برو به سلامت سیکتیرکن"
+	return "بسلامت"
 end
 if msg.text == "XY" then
 	return "کس ننت میگام سیکتیر اوبی"
